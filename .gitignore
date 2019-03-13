@@ -7,3 +7,6 @@ venv/
 
 # PyTest files
 .pytest_cache/
+
+# Coverage
+.coverage
