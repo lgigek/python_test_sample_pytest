@@ -1,0 +1,9 @@
+# IDEA file
+*.iml
+.idea/
+
+# Virtual environment
+venv/
+
+# PyTest files
+.pytest_cache/
